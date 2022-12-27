@@ -6,7 +6,7 @@ I am a M.S. CS student at University of Southern California.:v: I love learning 
 
 ## 📫 Contact me through
 <p align="center">
-  <a href="luyuhsua@usc.edu"><img src="https://img.icons8.com/color/32/000000/gmail.png" width="40" height="40" alt="email"/></a>
+  <a href=mailto:"luyuhsua@usc.edu"><img src="https://img.icons8.com/color/32/000000/gmail.png" width="40" height="40" alt="email"/></a>
   <a href="https://www.linkedin.com/in/yuhsuan-ashley-lu/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" width="40" height="40" alt="linkedin"/></a>
   <a href="https://medium.com/@ashleyluu"><img src="https://www.iconpacks.net/icons/5/free-medium-square-black-logo-icon-16005.png" width="40" height="40" alt="medium"/></a>
   <a href="https://www.facebook.com/yuhsuanluuu"><img src="https://www.mitchellcountylibrary.org/social-facebook-icon-3.png" width="40" height="40" alt="facebook"/></a>
