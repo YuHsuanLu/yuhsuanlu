@@ -1,6 +1,6 @@
 ## Hi there, This is Yu-Hsuan (Ashley) Lu. Welcome to my GitHub!
 
-I am a M.S. CS student at University of Southern California.:v: I love learning software technology, and programming! I have around 2 years of software experience in agile environments. :woman_technologist: I'm looking for a 2023 Summer SWE internship during my graduate studies. I'd be glad if there are any available SWE opportunities for me. I'm more than happy to connect!
+I am a M.S. CS student at University of Southern California.:v: I love learning software technology, and programming! I have 2+ years of software experience in agile environments. :woman_technologist: I'm looking for a 2023 Fall full-time SWE position. I'd be glad if there are any available SWE opportunities for me. I'm more than happy to connect!
 
 --- 
 
