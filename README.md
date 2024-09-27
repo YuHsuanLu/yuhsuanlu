@@ -1,6 +1,6 @@
 ## Hi there, This is Yu Hsuan Lu. Welcome to my GitHub!
 
-Passionate software engineer with 2+ years of experience and an MS CS degree from the University of Southern California. Actively seeking a full-time SWE position in 2024. Eager to connect and explore opportunities! :woman_technologist:
+Passionate software engineer with 3+ years of work experience and an MS CS degree from the University of Southern California. Actively seeking a full-time SWE position in 2024. Eager to connect and explore opportunities! :woman_technologist:
 
 --- 
 ## 📫 Contact me through
