@@ -7,7 +7,6 @@ Passionate software engineer with 3+ years of work experience and an MS CS degre
 <p align="center">
   <a href=mailto:"luyuhsua@usc.edu"><img src="https://img.icons8.com/color/32/000000/gmail.png" width="40" height="40" alt="email"/></a>
   <a href="https://www.linkedin.com/in/yuhsuan-ashley-lu/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" width="40" height="40" alt="linkedin"/></a>
-  <a href="https://medium.com/@ashleyluu"><img src="https://www.iconpacks.net/icons/5/free-medium-square-black-logo-icon-16005.png" width="40" height="40" alt="medium"/></a>
 </p>
 
 ---
